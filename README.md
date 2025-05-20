@@ -3,7 +3,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:9333EA&height=200&section=header&text=Kiboss%20Changole&fontSize=40&fontColor=ffffff)
 
 🎯 Junior developer | 🧠 Problem solver | ⚡ Always learning  
-Solana ⚙️ • React Native 📱 • Laravel 🚀 • Expo 🌍 • Cybersecurity 🛡️
+TypeScript/JavaScript • Solana ⚙️ • React Native 📱 • Laravel 🚀 • Expo 🌍 • Cybersecurity 🛡️
 
 ---
 
