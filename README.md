@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hey, I'm Kiboss Changole
 
-<!--
-**kibossChangole/kibosschangole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:9333EA&height=200&section=header&text=Kiboss%20Changole&fontSize=40&fontColor=ffffff)
 
-Here are some ideas to get you started:
+🎯 Junior developer | 🧠 Problem solver | ⚡ Always learning  
+Solana ⚙️ • React Native 📱 • Laravel 🚀 • Expo 🌍 • Cybersecurity 🛡️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 What I Build
+- 📱 Cross-platform apps (Expo + Firebase + M-Pesa + Solana)
+- 🌐 Decoupled systems (Next.js frontend + Laravel API backend)
+- 💰 Crypto-smart contracts with **Anchor** + **Rust**
+- 🧠 Ethical bot detection + Deriv API trading bots
+
+---
+
+### 🧰 Tech Toolbox
+
+![My Skills](https://skillicons.dev/icons?i=ts,react,solidity,rust,laravel,tailwind,firebase,docker,aws,git)
+
+---
+
+### 🧪 What I'm Exploring
+- ⛓️ Tokenomics logic on Solana  
+- 🔍 Cyber threat detection + automation with n8n & Google Apps Script  
+- 🚗 IoT ideas for **OBD2 GPS tracking**
+
+---
+
+### 💬 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiboss-changole-aa6230185/)
+
+---
+
+🧿 *"Code with purpose, honor the vision."*
+
+
